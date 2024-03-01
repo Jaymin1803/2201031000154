@@ -1,0 +1,350 @@
+.kemangi-exact-bt-1 {
+  position: absolute;
+  top: 16px;
+  left: 17px;
+  width: 139px;
+  height: 23px;
+  object-fit: cover;
+}
+.homepage-child {
+  position: absolute;
+  top: 231px;
+  left: 155px;
+  width: 42px;
+  height: 8.6px;
+}
+.categories,
+.where-to-go {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.categories {
+  top: 240px;
+  left: 22px;
+  width: 96px;
+  height: 25px;
+  font-size: var(--font-size-base);
+  color: var(--dark-green);
+  font-family: var(--font-open-sans);
+}
+.covid-19-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--white-float);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 326px;
+  height: 75px;
+}
+.categories1 {
+  position: absolute;
+  top: 9px;
+  left: 9px;
+  width: 96px;
+  height: 25px;
+  font-family: var(--font-open-sans);
+}
+.bacteria-1-icon {
+  position: absolute;
+  top: 5px;
+  left: 84px;
+  width: 29px;
+  height: 29px;
+  object-fit: cover;
+}
+.your-email-has {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -43.24%;
+  left: 0;
+  display: inline-block;
+}
+.your-email-has-been-confirmed {
+  position: absolute;
+  top: 56px;
+  left: 9px;
+  width: 301px;
+  height: 37px;
+  font-size: var(--font-size-xs);
+  color: var(--black);
+}
+.sign-in1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.sign-in {
+  position: absolute;
+  top: 13px;
+  left: 249px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 92px;
+  height: 16px;
+  font-size: var(--font-size-3xs);
+}
+.covid-19 {
+  position: absolute;
+  top: 379px;
+  left: 16px;
+  width: 341px;
+  height: 93px;
+  font-size: var(--font-size-base);
+  color: var(--dark-green);
+}
+.menu-bar-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--white-float);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.home {
+  position: absolute;
+  top: 68.89%;
+  left: 5.29%;
+  color: var(--dark-green);
+}
+.account,
+.booking,
+.call {
+  position: absolute;
+  top: 71.11%;
+  left: 33.24%;
+}
+.account,
+.call {
+  top: 73.33%;
+  left: 64.41%;
+}
+.account {
+  left: 86.76%;
+}
+.icon-account,
+.icon-booking,
+.icon-call,
+.icon-home {
+  position: absolute;
+  height: 55.56%;
+  width: 7.35%;
+  top: 15.56%;
+  right: 5%;
+  bottom: 28.89%;
+  left: 87.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.icon-booking,
+.icon-call,
+.icon-home {
+  right: 87.35%;
+  left: 5.29%;
+}
+.icon-booking,
+.icon-call {
+  width: 5.74%;
+  top: 16.44%;
+  right: 59.26%;
+  bottom: 28%;
+  left: 35%;
+}
+.icon-call {
+  width: 5.62%;
+  top: 15.56%;
+  right: 30.85%;
+  bottom: 28.89%;
+  left: 63.53%;
+}
+.menu-bar {
+  position: absolute;
+  top: 583px;
+  left: 10px;
+  width: 340px;
+  height: 45px;
+  font-size: var(--font-size-5xs);
+  color: var(--grey);
+  font-family: var(--font-open-sans);
+}
+.n-2-icon {
+  position: absolute;
+  top: 53px;
+  left: 30px;
+  border-radius: var(--br-5xs);
+  width: 300px;
+  height: 172.6px;
+  object-fit: cover;
+}
+.homepage-item {
+  position: absolute;
+  top: 405px;
+  left: 263.5px;
+  border-top: 1px solid var(--dark-green);
+  box-sizing: border-box;
+  width: 66.1px;
+  height: 1px;
+}
+.component-child,
+.places-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--light-green);
+  width: 90px;
+  height: 96px;
+}
+.component-child {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--white-float);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.image-1-icon {
+  position: absolute;
+  height: 57.38%;
+  width: 82.09%;
+  top: 18.03%;
+  right: 8.96%;
+  bottom: 24.59%;
+  left: 8.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.menu-places,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 67px;
+  height: 61px;
+}
+.menu-places {
+  top: 8px;
+  left: 12px;
+}
+.places1 {
+  position: absolute;
+  width: 52.22%;
+  top: 80.21%;
+  left: 26.67%;
+  display: inline-block;
+}
+.places {
+  position: absolute;
+  top: 272px;
+  left: 30px;
+  width: 90px;
+  height: 96px;
+  cursor: pointer;
+}
+.image-1-icon1,
+.instance-item {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-1-icon1 {
+  height: 57.38%;
+  width: 82.09%;
+  top: 18.03%;
+  right: 8.96%;
+  bottom: 24.59%;
+  left: 8.96%;
+  display: none;
+}
+.instance-item {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+}
+.image-1 {
+  position: absolute;
+  height: 57.4%;
+  width: 82.09%;
+  top: 18.11%;
+  right: 8.84%;
+  bottom: 24.49%;
+  left: 9.07%;
+  display: none;
+}
+.rectangle-container {
+  position: absolute;
+  top: 9.8px;
+  left: 13px;
+  width: 43px;
+  height: 39.2px;
+}
+.events1 {
+  position: absolute;
+  width: 70.15%;
+  top: 83.13%;
+  left: 19.4%;
+  display: inline-block;
+}
+.events {
+  position: absolute;
+  top: 280px;
+  left: 254px;
+  width: 67px;
+  height: 83px;
+  cursor: pointer;
+}
+.tari-gandrung-by-dawvectorart-icon {
+  position: absolute;
+  top: 6px;
+  left: 10px;
+  width: 41px;
+  height: 50px;
+  object-fit: cover;
+}
+.activities1 {
+  position: absolute;
+  height: 12.66%;
+  width: 95.52%;
+  top: 87.34%;
+  left: 2.99%;
+  display: inline-block;
+}
+.activities {
+  position: absolute;
+  top: 280px;
+  left: 149px;
+  width: 67px;
+  height: 79px;
+  cursor: pointer;
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  height: 640px;
+  overflow-x: auto;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--black);
+  font-family: var(--font-comfortaa);
+}
